@@ -1,0 +1,32 @@
+.body {
+  background-color: blue;
+}
+
+.box_ident {
+  box-sizing: border-box;
+  height: 100px;
+  width: 200px;
+  position: fixed;
+  border: 1px black solid;
+
+}
+
+.box_photo {
+  box-sizing: border-box;
+  height: 50px;
+  width: 50px;
+  position: relative;
+  border: 1px black none;
+  padding-left: 600px;
+}
+
+
+
+.box_contact {
+  box-sizing: border-box;
+  height: 50px;
+  width: 100px;
+  position: relative;
+  border: 1px black none;
+  margin-top: 10px;
+}
